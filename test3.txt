@@ -1,1 +1,2 @@
-This is new cool feature 3
+This is new COOL feature 3
+Some new text
