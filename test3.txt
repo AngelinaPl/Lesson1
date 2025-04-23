@@ -1,1 +1,3 @@
-This is new cool feature 2 !!!
+This is new COOL feature 2 !!!
+Some new text
+
